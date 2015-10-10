@@ -1,7 +1,8 @@
-// author: Anton Lieskovsky
+// author: Anton Lieskovsky 
 // language> C#
 // https://codility.com/demo/results/demoCB6NSW-ZGV/ 91 percent
 // https://codility.com/demo/results/demoACVV96-VXW/ 100 percent
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
